@@ -10,6 +10,10 @@ public class SeleniumTest {
 	public void BrowserAutomation() 
 	{
 		System.out.println("BrowserAutomation");
+		
+		//updated by GitStuff person
+				System.out.println("Web automation");
+
 	}
 
 	@Test
