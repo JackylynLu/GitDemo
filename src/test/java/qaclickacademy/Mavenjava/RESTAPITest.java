@@ -25,5 +25,12 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	
+	//develop branch edits
+	@Test
+	public void deleteTwitter11()
+	{
+		System.out.println("deleteTwitter07");
+	}
 
 }

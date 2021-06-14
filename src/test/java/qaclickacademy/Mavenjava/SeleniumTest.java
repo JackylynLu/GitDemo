@@ -21,4 +21,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");
 	}
+	
+	//develop branch edits
+	@Test
+	public void elementsUi07()
+	{
+		System.out.println("elementsUi07");
+	}
 }
