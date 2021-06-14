@@ -28,4 +28,12 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi07");
 	}
+	
+	//develop branch edits by American Team
+		@Test
+		public void elementsUi08()
+		{
+			System.out.println("elementsUi08");
+		}
+	
 }
